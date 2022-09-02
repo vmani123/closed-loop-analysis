@@ -11,7 +11,7 @@ go to where this folder is saved
 
 create the environment for analysis
 
-`conda env create -f environment.yml`
+`conda env create -f env.yml`
 
 activate said environment
 
