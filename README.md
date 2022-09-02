@@ -5,9 +5,16 @@ analysis repo for closed-loop stim
 https://www.anaconda.com/products/distribution
 
 ## install dependencies
+go to where this folder is saved
+
+`cd your/path/to/closed-loop-analysis/`
+
 create the environment for analysis
+
 `conda env create -f environment.yml`
+
 activate said environment
+
 `conda activate closed-loop`
 
 
