@@ -5,6 +5,10 @@ analysis repo for closed-loop stim
 `cd analysis `
 `jupyter notebook main.ipynb`
 
+## Brances
+`kaity_test`
+`jack_test`
+
 
 
 
