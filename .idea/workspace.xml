@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="815d68f0-4621-4532-84f9-d11d4b1b6e95" name="Default Changelist" comment="" />
+    <list default="true" id="815d68f0-4621-4532-84f9-d11d4b1b6e95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/code_to_graph_predictions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/comparison-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/graph_13092022_4-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/load_dlc-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/post-hoc-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/post-hoc-Copy2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/post-hoc-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/.ipynb_checkpoints/test-checkpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/091322-workspace.jupyterlab-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/code_to_graph_predictions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/comparison.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/graph_13092022_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/load_dlc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/post-hoc-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/post-hoc-Copy2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/post-hoc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/notebook/test.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +36,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DeepLabStream" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,5 +60,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
